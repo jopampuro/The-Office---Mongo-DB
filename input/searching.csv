@@ -1,0 +1,22 @@
+,category,name,location,latitude,longitude
+0,airport,Seattle-Tacoma International Airport,"{'type': 'Point', 'coordinates': [-122.3088165, 47.4502499]}",47.4502499,-122.3088165
+0,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.440969, 47.206847]}",47.206847,-122.440969
+1,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.321584, 47.608774]}",47.608774,-122.321584
+2,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.198263, 47.616457]}",47.616457,-122.198263
+3,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.335842, 47.489]}",47.489,-122.335842
+4,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.3241632, 47.6095772]}",47.6095772,-122.3241632
+5,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.2986832, 47.3745155]}",47.3745155,-122.2986832
+6,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.342583, 47.610021]}",47.610021,-122.342583
+7,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.28294, 47.66294000000001]}",47.66294000000001,-122.28294
+8,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.31643, 47.314799]}",47.314799,-122.31643
+9,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.3367, 47.713975]}",47.713975,-122.3367
+10,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.316491, 47.675595]}",47.675595,-122.316491
+11,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.338094, 47.615222]}",47.615222,-122.338094
+12,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.522285, 47.25517300000001]}",47.25517300000001,-122.522285
+13,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.313383, 47.65822]}",47.65822,-122.313383
+14,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.3396791, 47.60483199999999]}",47.60483199999999,-122.3396791
+15,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.1319712, 47.62211509999999]}",47.62211509999999,-122.1319712
+16,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.321071, 47.61389699999999]}",47.61389699999999,-122.321071
+17,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.4490951, 47.263427]}",47.263427,-122.4490951
+18,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.325599, 47.546049]}",47.546049,-122.325599
+19,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.324992, 47.619373]}",47.619373,-122.324992
